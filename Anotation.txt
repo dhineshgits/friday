@@ -1,0 +1,15 @@
+Anotation
+ 
+@Restcontroller
+@RequestMapping
+@postMapping
+@GetMapping
+@PutMapping
+@DeleteMapping
+@Component
+@AutoWired
+@PathVariable
+>Diffrence between hibernate and spring
+>                  @controller and @RestController
+>                  SpringMVC and SpringBoot
+

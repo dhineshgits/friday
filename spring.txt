@@ -1,0 +1,27 @@
+build formats
+.zip
+.jar(java archieve)
+.war(web application archieve)
+.tar(tap archieve) it is most extensively used build format.
+.apk(android programming kit)
+.ipa(ios packing arcive)
+Spring MVC -Model view controller
+------------------------------------------------------------------------------------------------------------
+
+Spring Web WEB
+Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
+Spring Boot DevTools DEVELOPER TOOLS
+Provides fast application restarts, LiveReload, and configurations for enhanced development experience.
+Spring Data JPA SQL
+Persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.
+MySQL Driver SQL
+MySQL JDBC driver.
+-------------------------------------------------------------
+> run() method is return the ConfigurableApplicationContext 
+> ConfigurableApplicationContext it is used to initilaize objects inside the spring container
+>In spring cotainer we have different objects the class what we created and the objects is called as bean 
+>TO create a spring bean we have two scopes called Singleton,prototype
+
+@Component it is used to create object Its follow singleton pattern
+
+
